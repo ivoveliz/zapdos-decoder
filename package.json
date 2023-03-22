@@ -1,0 +1,14 @@
+{
+  "name": "functions_durable",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "durable-functions": "^2.1.1",
+    "pg": "^8.9.0",
+    "mongoose": "^6.0.8"
+  }
+}
